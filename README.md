@@ -1,5 +1,11 @@
 # python的作品集
 
+相關課程：
+
+(1)計算機概論 INTRODUCTION TO COMPUTERS
+
+(2)資料科學導論INTRODUCTION TO DATA SCIENCE
+
 ## 基礎python
 
 (1) 21點
