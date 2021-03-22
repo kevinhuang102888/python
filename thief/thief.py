@@ -8,3 +8,4 @@ while thief <=4:
         break
     thief=thief+1
 print("The true thief is ",thief)
+
