@@ -30,4 +30,6 @@
 
 (2) [kobe的投球分析](https://github.com/kevinhuang102888/python/blob/master/kobe/hw2_kobe.ipynb)
 
-(3) [k-means](https://github.com/kevinhuang102888/python/blob/master/k-means/kmeans.ipynb)
+(3) [IMDB-Movie-Data](https://github.com/kevinhuang102888/python/blob/master/movie_analysis/hw1_movie.ipynb)
+
+(4) [k-means](https://github.com/kevinhuang102888/python/blob/master/k-means/kmeans.ipynb)
