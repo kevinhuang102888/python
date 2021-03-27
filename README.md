@@ -26,7 +26,7 @@
 
 ## 進階python
 
-(1) [購買紀錄分析](https://github.com/kevinhuang102888/python/blob/master/purchase%20analysis/hw2_game.jpynb.ipynb)
+(1) [購買紀錄分析](https://github.com/kevinhuang102888/python/blob/master/purchase%20analysis/hw1_purchase.ipynb)
 
 (2) [kobe的投球分析](https://github.com/kevinhuang102888/python/blob/master/kobe/hw2_kobe.ipynb)
 
