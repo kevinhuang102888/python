@@ -33,3 +33,5 @@
 (3) [IMDB-Movie-Data](https://github.com/kevinhuang102888/python/blob/master/movie_analysis/hw1_movie.ipynb)
 
 (4) [k-means](https://github.com/kevinhuang102888/python/blob/master/k-means/kmeans.ipynb)
+
+(5) [Dbscan_KNN](https://github.com/kevinhuang102888/python/blob/master/dbscan_KNN/dbscan_KNN.ipynb)
