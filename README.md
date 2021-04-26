@@ -24,7 +24,7 @@
 
 (8) 四子棋遊戲
 
-## 進階python
+## 進階python：資料實戰/機器學習演算法
 
 (1) [購買紀錄分析](https://github.com/kevinhuang102888/python/blob/master/purchase%20analysis/hw1_purchase.ipynb)
 
