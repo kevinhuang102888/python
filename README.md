@@ -35,3 +35,5 @@
 (4) [k-means](https://github.com/kevinhuang102888/python/blob/master/k-means/kmeans.ipynb)
 
 (5) [Dbscan_KNN](https://github.com/kevinhuang102888/python/blob/master/dbscan_KNN/dbscan_KNN.ipynb)
+
+(6) [Association_Rules](https://github.com/kevinhuang102888/python/blob/master/Association_Rules/arm-implement.ipynb)
