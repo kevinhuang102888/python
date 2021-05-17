@@ -39,3 +39,5 @@
 (6) [Association_Rules part1](https://github.com/kevinhuang102888/python/blob/master/Association_Rules/arm-implement.ipynb)
 
 (7)[Association_Rules part2](https://github.com/kevinhuang102888/python/blob/master/Association_Rules/arm.ipynb)
+
+(7)[decision tree](https://github.com/kevinhuang102888/python/blob/master/Decision_tree/decision_tree.ipynb)
