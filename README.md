@@ -40,4 +40,6 @@
 
 (7)[Association_Rules part2](https://github.com/kevinhuang102888/python/blob/master/Association_Rules/arm.ipynb)
 
-(7)[decision tree](https://github.com/kevinhuang102888/python/blob/master/Decision_tree/decision_tree.ipynb)
+(8)[decision tree](https://github.com/kevinhuang102888/python/blob/master/Decision_tree/decision_tree.ipynb)
+
+(9)[web scraping](https://github.com/kevinhuang102888/python/blob/master/web_scraping/hw5_web_scraping.ipynb)
