@@ -44,4 +44,4 @@
 
 (9) [web scraping](https://github.com/kevinhuang102888/python/blob/master/web_scraping/web_scraping.ipynb)
 
-(10)[bank_churn_Prediction_competition](https://github.com/kevinhuang102888/python/blob/master/bank_churn_Prediction_competition)
+
