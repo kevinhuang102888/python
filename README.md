@@ -1,8 +1,10 @@
 # python的作品集
 
-相關課程：
+## 相關課程：
 
-### 計算機概論 INTRODUCTION TO COMPUTERS
+---
+
+#### 計算機概論 INTRODUCTION TO COMPUTERS
 
 (1) 21點
 
@@ -20,7 +22,9 @@
 
 (8) 四子棋遊戲
 
-### 資料科學導論INTRODUCTION TO DATA SCIENCE
+---
+
+#### 資料科學導論INTRODUCTION TO DATA SCIENCE
 
 (1) [購買紀錄分析](https://github.com/kevinhuang102888/python/blob/master/Class%EF%BC%9AINTRODUCTION%20TO%20DATA%20SCIENCE/purchase%20analysis/hw1_purchase.ipynb)
 
@@ -42,6 +46,7 @@
 
 (10) [bank churn predict](https://github.com/kevinhuang102888/python/tree/master/Class%EF%BC%9AINTRODUCTION%20TO%20DATA%20SCIENCE/bank_churn_competition)
 
+---
 
 ### 巨量資料分析 BIG DATA ANALYSIS
 
