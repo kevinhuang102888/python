@@ -1,10 +1,8 @@
 # python的作品集
 
-## 相關課程：
-
 ---
 
-#### 計算機概論 INTRODUCTION TO COMPUTERS
+### 計算機概論 INTRODUCTION TO COMPUTERS
 
 (1) 21點
 
@@ -24,7 +22,7 @@
 
 ---
 
-#### 資料科學導論INTRODUCTION TO DATA SCIENCE
+### 資料科學導論INTRODUCTION TO DATA SCIENCE
 
 (1) [購買紀錄分析](https://github.com/kevinhuang102888/python/blob/master/Class%EF%BC%9AINTRODUCTION%20TO%20DATA%20SCIENCE/purchase%20analysis/hw1_purchase.ipynb)
 
@@ -32,7 +30,7 @@
 
 (3) [IMDB-Movie-Data](https://github.com/kevinhuang102888/python/blob/master/Class%EF%BC%9AINTRODUCTION%20TO%20DATA%20SCIENCE/movie_analysis/hw1_movie.ipynb)
 
-(4) [k-means](https://github.com/kevinhuang102888/python/blob/master/k-means/kmeans.ipynb)
+(4) [k-means](https://github.com/kevinhuang102888/python/blob/master/Class%EF%BC%9AINTRODUCTION%20TO%20DATA%20SCIENCE/k-means/kmeans.ipynb)
 
 (5) [Dbscan_KNN](https://github.com/kevinhuang102888/python/blob/master/Class%EF%BC%9AINTRODUCTION%20TO%20DATA%20SCIENCE/dbscan_KNN/dbscan_KNN.ipynb)
 
